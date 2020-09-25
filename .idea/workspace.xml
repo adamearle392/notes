@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de6f4e22-d6f7-4777-9f73-8723b77c9ecf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="R58M75PB4VB" />
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1i0iXZ2gQldkNKIb9sN61mZDoYG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de6f4e22-d6f7-4777-9f73-8723b77c9ecf" name="Default Changelist" comment="" />
+      <created>1601050949548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601050949548</updated>
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1601054148554</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601054148554</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="744" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601053684573">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state x="744" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.83.1600.877/0.23.2560.1057@0.23.2560.1057" timestamp="1601053684573" />
+    <state x="897" y="67" key="CommitChangelistDialog2" timestamp="1601056091418">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state x="897" y="67" key="CommitChangelistDialog2/2560.83.1600.877/0.23.2560.1057@0.23.2560.1057" timestamp="1601056091418" />
+    <state width="2518" height="271" key="GridCell.Tab.0.bottom" timestamp="1601055706674">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="2518" height="271" key="GridCell.Tab.0.bottom/2560.83.1600.877/0.23.2560.1057@0.23.2560.1057" timestamp="1601055706674" />
+    <state width="2518" height="271" key="GridCell.Tab.0.center" timestamp="1601055706674">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="2518" height="271" key="GridCell.Tab.0.center/2560.83.1600.877/0.23.2560.1057@0.23.2560.1057" timestamp="1601055706674" />
+    <state width="2518" height="271" key="GridCell.Tab.0.left" timestamp="1601055706673">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="2518" height="271" key="GridCell.Tab.0.left/2560.83.1600.877/0.23.2560.1057@0.23.2560.1057" timestamp="1601055706673" />
+    <state width="2518" height="271" key="GridCell.Tab.0.right" timestamp="1601055706674">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="2518" height="271" key="GridCell.Tab.0.right/2560.83.1600.877/0.23.2560.1057@0.23.2560.1057" timestamp="1601055706674" />
+    <state x="880" y="287" key="Vcs.Push.Dialog.v2" timestamp="1601056057673">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state x="880" y="287" key="Vcs.Push.Dialog.v2/2560.83.1600.877/0.23.2560.1057@0.23.2560.1057" timestamp="1601056057673" />
+    <state x="100" y="123" width="2360" height="857" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1601055668664">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state x="100" y="123" width="2360" height="857" key="com.intellij.history.integration.ui.views.FileHistoryDialog/2560.83.1600.877/0.23.2560.1057@0.23.2560.1057" timestamp="1601055668664" />
+  </component>
+</project>
